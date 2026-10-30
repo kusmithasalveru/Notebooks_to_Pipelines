@@ -1,0 +1,32 @@
+[
+  {
+    "product":"Thingamajig",
+    "total_revenue":690158,
+    "total_units":1372,
+    "num_sales":48
+  },
+  {
+    "product":"Widget",
+    "total_revenue":611157,
+    "total_units":1292,
+    "num_sales":45
+  },
+  {
+    "product":"Gadget",
+    "total_revenue":557115,
+    "total_units":1119,
+    "num_sales":39
+  },
+  {
+    "product":"Gizmo",
+    "total_revenue":462779,
+    "total_units":911,
+    "num_sales":32
+  },
+  {
+    "product":"Doohickey",
+    "total_revenue":441414,
+    "total_units":949,
+    "num_sales":36
+  }
+]
